@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pravesh Scanner 2.0</string>
+    <string name="allow">Allow</string>
+    <string name="name">Name:</string>
+    <string name="phone_no">Phone No:</string>
+    <string name="adhaar_no">Adhaar No:</string>
+    <string name="email">Email:</string>
+</resources>
